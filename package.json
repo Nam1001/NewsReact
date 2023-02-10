@@ -1,5 +1,4 @@
 {
-  "homepage": "https://github.com/Nam1001/NewsApp.git",
   "name": "my-news",
   "version": "0.1.0",
   "private": true,
@@ -17,8 +16,6 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-dotenv && react-scripts start",
     "build": "react-dotenv && react-scripts build",
     "serve": "react-dotenv && serve build",

@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+.dropdown-item{
+  margin: 2px 2px;
+}
+.btn-secondary{
+  display: block;
+    margin: 2px auto;
+    padding: 1px 80px;
+
+}
+.scrollable-menu {
+  height: auto;
+  max-height: 200px;
+  overflow-x: hidden;
+}
